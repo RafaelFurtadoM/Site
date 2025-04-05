@@ -1,0 +1,42 @@
+.Centralizar {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top {
+    font-size: 20px;
+}
+
+.inp
+{
+    font-size: 24px;;
+}
+
+.tp {
+    font-size: 28px;
+}
+
+.btn {background-color: #333;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 100px;
+font-size: 2rem;
+box-shadow: 0px 0px 20px #00EEFF;
+border-radius: 12px;
+background-color: #00EEFF;
+padding: 10px 20px;
+width: 10%;
+text-align: center;
+margin: auto;
+}
+
+.btn:hover{box-shadow: 0px 0px 50px #00EEFF;
+text-align: center;}
+
+
+
+fieldset {
+    border: none;
+
+}

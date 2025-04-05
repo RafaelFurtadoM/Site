@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+table {
+    width: 100%;
+    height: 98vh;
+    border-spacing: 0px;
+}
+
+#azul-claro {
+    background-color: #00D0FF;
+    height: 50px;
+    
+}
+
+#cinza {
+    background-color: #252525;
+    height: 100px;
+}
+
+.esquerdo { border-radius: 15px 0 0 15px ;
+text-align: center;}
+
+.topo {
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    width: 150px;
+}
+
+.topo1 {
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.a1 {
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    display: none;
+}
+
+
+
+.text {color: white;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;}
+
+.title {font-size: 25px;}
+
+.sobretitle {font-size: 18px;}
+
+.tr1 {height: 300px;;
+}
+
+.fut {color: white;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+
+.color {color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+}
+
+.color1 {color: rgb(0, 247, 255);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.color2{ 
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font: size 16px;
+}
+
+.b {font-size: 22px;}
+
+
+.logo {
+    width: 5.5px;
+    
+}
+
+.search {width: 110%;
+    border-radius: 15px;
+    height: 3.5vh;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: -20px;
+    top: 1vh;
+    text-align: center;
+}
+
+.bl {background-color: #303030;
+    border-radius: 50px;}
+    
+    .search1 {
+        position: relative;
+        left: -5%;
+        top: -1.85vh;
+    }
+
+.rodape{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+
+.fotos{
+    height: 15px;
+}
+
+.rod{
+    font-size: 20px;
+}
+.txt12{
+    text-align: center;
+}
+.tp1 {
+    text-align: left;
+}
+
